@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "3.3",
- "sha256": "72e736bb5a917ca8a1b3474a94a60298839fc6eaad0e393de9d796248c6d70e9",
- "size": 14575730,
- "url": "https://raw.githubusercontent.com/shambala944/riskradar-liscense/refs/heads/main/RiskRadar-3.3.exe",
- "issued": "2026-11-10T22:19:55+00:00",
+ "version": "3.4",
+ "sha256": "f7cc194d6895d8067b980f389235f2f793472642617b401cb935e0537f7540a4",
+ "size": 15881657,
+ "url": "https://raw.githubusercontent.com/shambala944/riskradar-liscense/refs/heads/main/RiskRadar-3.4.exe",
+ "issued": "2026-11-11T00:19:06+00:00",
  "notes": "",
- "sig": "GIWqJvAk5c0SwGi69ycvTdQXmQbWB2Df4bqzw/lPyusyteU1OQYln7AumHVM1Jgupi1dSzYfYZ2DD87wACiaCg=="
+ "sig": "m7By7H0ARMab+X+6W5aBrOlqDYaHpSm4UmwMz4J2Q7vRMRrJYKR0VpVOzXz9rupKSFXI9HgqCBIw1+SzgSqNDA=="
 }
